@@ -1,2 +1,2 @@
 # super-duper-robot
-demo
+super duper demo
